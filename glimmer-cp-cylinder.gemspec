@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
     "LICENSE.txt",
     "README.md",
     "VERSION",
+    "glimmer-cp-cylinder.gemspec",
     "lib/glimmer-cp-cylinder.rb",
     "lib/glimmer/view/cylinder.rb",
     "samples/cylinder/hello_cylinder.rb"
